@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   secret-replicator:
   - apiVersion: v1
+    appVersion: 0.0.3
+    created: 2019-02-26T23:39:59.470121634-05:00
+    description: A Helm chart for Kubernetes
+    digest: 3fa9f4784a076980f180685d2343bc283339886c2a1f5a8f7217cf73fa0c6ae8
+    name: secret-replicator
+    urls:
+    - https://daewok.github.io/helm-charts/secret-replicator-0.0.3-7f57eed.tgz
+    version: 0.0.3-7f57eed
+  - apiVersion: v1
     appVersion: 0.0.2
     created: 2019-02-20T13:42:51.454542718-05:00
     description: A Helm chart for Kubernetes
@@ -19,4 +28,4 @@ entries:
     urls:
     - https://daewok.github.io/helm-charts/secret-replicator-0.0.2-d738b85.tgz
     version: 0.0.2-d738b85
-generated: 2019-02-20T13:42:51.45430571-05:00
+generated: 2019-02-26T23:39:59.46982145-05:00
